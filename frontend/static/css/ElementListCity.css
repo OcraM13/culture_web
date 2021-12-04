@@ -1,0 +1,22 @@
+.box{
+    background: rgb(87,112,115);
+    background: linear-gradient(90deg, rgba(87,112,115,1) 0%, rgba(42,54,51,1) 100%);
+    border: 0.5px solid rgb(3, 0, 0);
+    border-left: 6px solid rgb(1, 50, 70);
+    display: felx;
+}
+
+.link{
+    margin: 0;
+    padding: 0;
+    text-decoration:none;
+    color: cyan;
+    font-family: Monaco, Monospace;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 1.5em;
+}
+
+.text{
+    margin: .4em;
+}
